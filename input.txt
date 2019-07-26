@@ -1,0 +1,5 @@
+glob is I
+prok is V
+glob glob Silver is 34 Credits
+glob prok Gold is 57800 Credits
+how many Credits is Silver Gold ?
